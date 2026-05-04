@@ -1,0 +1,10 @@
+{
+  "name": "signal-inbox",
+  "version": "0.1.0",
+  "description": "Morning brief synthesising the last 24h across Slack, Gmail, and Granola. Find what matters before the noise wins.",
+  "author": {
+    "name": "Dave Martin"
+  },
+  "homepage": "https://github.com/mrdavemartin/signal-inbox",
+  "keywords": ["signal", "inbox", "brief", "slack", "gmail", "granola", "cowork"]
+}

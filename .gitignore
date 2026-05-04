@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Saved briefs from local dev runs (--plugin-dir testing)
+briefs/
+
+# Anything inside the plugin data directory if symlinked here for testing
+.claude-plugin-data/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local node_modules if you ever add tooling
+node_modules/

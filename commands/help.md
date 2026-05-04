@@ -1,5 +1,5 @@
 ---
-description: Show Signal Inbox help — what each command does, with examples.
+description: From ConfidenceIn.co Show Signal Inbox help — what each command does, with examples.
 argument-hint: ""
 ---
 

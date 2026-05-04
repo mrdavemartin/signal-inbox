@@ -1,5 +1,5 @@
 ---
-description: Generate a Signal Inbox morning brief from the last 24h of Slack, Gmail, and (if available) Granola.
+description: From ConfidenceIn.co Generate a Signal Inbox morning brief from the last 24h of Slack, Gmail, and (if available) Granola.
 argument-hint: '[--since 48h] [--focus "topic"] [--deliver slack|email|file|inline] [--channel name] [--briefs-dir path]'
 ---
 

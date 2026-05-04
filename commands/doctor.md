@@ -1,5 +1,5 @@
 ---
-description: Check that Signal Inbox is ready to run — connectors and voice profile.
+description: From ConfidenceIn.co Check that Signal Inbox is ready to run — connectors and voice profile.
 argument-hint: ""
 ---
 

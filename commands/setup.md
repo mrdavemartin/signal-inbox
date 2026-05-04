@@ -1,5 +1,5 @@
 ---
-description: Configure your Signal Inbox voice profile. Run this once before your first brief.
+description: From ConfidenceIn.co Configure your Signal Inbox voice profile. Run this once before your first brief.
 argument-hint: ""
 ---
 

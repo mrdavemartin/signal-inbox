@@ -1,0 +1,16 @@
+{
+  "name": "signal-inbox",
+  "metadata": {
+    "description": "Signal Inbox — a morning brief plugin that synthesises the last 24h of Slack, Gmail, and Granola into one decision-ready summary."
+  },
+  "owner": {
+    "name": "Dave Martin"
+  },
+  "plugins": [
+    {
+      "name": "signal-inbox",
+      "source": "./",
+      "description": "Morning brief synthesising the last 24h across Slack, Gmail, and Granola. Find what matters before the noise wins."
+    }
+  ]
+}

@@ -22,13 +22,32 @@ Plus a footer showing how much noise was filtered out, so you trust what made th
 
 ## Install
 
-In Cowork or Claude Code:
+### Claude Code (CLI)
+
+Two commands — add the repo as a marketplace, then install the plugin from it:
 
 ```
-/plugin install mrdavemartin/signal-inbox
+/plugin marketplace add mrdavemartin/signal-inbox
+/plugin install signal-inbox@signal-inbox
 ```
 
-Then run `/signal-inbox:doctor` to confirm everything is connected.
+To install a pinned version:
+
+```
+/plugin marketplace add mrdavemartin/signal-inbox@v0.1.0
+/plugin install signal-inbox@signal-inbox
+```
+
+### Cowork (desktop app)
+
+Cowork's plugin browser currently only lists plugins from the official Anthropic catalog — it doesn't yet support installing arbitrary GitHub plugins from the UI. If you're on Cowork, the simplest options today are:
+
+1. Use Claude Code CLI alongside Cowork (the plugin runs the same way)
+2. Wait for the plugin to be added to the Cowork catalog (if/when it is)
+
+---
+
+After install, run `/signal-inbox:doctor` to confirm everything is connected.
 
 ---
 

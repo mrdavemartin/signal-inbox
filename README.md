@@ -28,14 +28,14 @@ Two commands — add the repo as a marketplace, then install the plugin from it:
 
 ```
 /plugin marketplace add mrdavemartin/signal-inbox
-/plugin install signal-inbox@signal-inbox
+/plugin install signal-inbox@confidence-in
 ```
 
 To install a pinned version:
 
 ```
 /plugin marketplace add mrdavemartin/signal-inbox@v0.1.0
-/plugin install signal-inbox@signal-inbox
+/plugin install signal-inbox@confidence-in
 ```
 
 ### Cowork (desktop app)

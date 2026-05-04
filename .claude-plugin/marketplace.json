@@ -1,7 +1,7 @@
 {
-  "name": "signal-inbox",
+  "name": "confidence-in",
   "metadata": {
-    "description": "Signal Inbox — a morning brief plugin that synthesises the last 24h of Slack, Gmail, and Granola into one decision-ready summary."
+    "description": "Confidence In — plugins for senior tech leaders. Find the signal, hold the line, lead with judgement."
   },
   "owner": {
     "name": "Dave Martin"

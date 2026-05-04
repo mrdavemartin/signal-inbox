@@ -40,10 +40,14 @@ To install a pinned version:
 
 ### Cowork (desktop app)
 
-Cowork's plugin browser currently only lists plugins from the official Anthropic catalog — it doesn't yet support installing arbitrary GitHub plugins from the UI. If you're on Cowork, the simplest options today are:
+Cowork doesn't accept GitHub URLs directly, but it does support uploading a custom plugin file:
 
-1. Use Claude Code CLI alongside Cowork (the plugin runs the same way)
-2. Wait for the plugin to be added to the Cowork catalog (if/when it is)
+1. On this repo's GitHub page, click the green **`< > Code`** button → **Download ZIP**.
+2. In Cowork, open **Customize** in the left sidebar → **Browse plugins**.
+3. Choose the option to **upload a custom plugin** and select the downloaded ZIP.
+4. Confirm it appears in your installed plugins list.
+
+To update later, download a fresh ZIP and re-upload — Cowork will replace the existing copy.
 
 ---
 

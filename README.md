@@ -24,19 +24,14 @@ Plus a footer showing how much noise was filtered out, so you trust what made th
 
 ### Claude Code (CLI)
 
-Two commands — add the repo as a marketplace, then install the plugin from it:
+Signal Inbox is published through the **Confidence In Free** marketplace. Add the marketplace once, then install Signal Inbox from it:
 
 ```
-/plugin marketplace add mrdavemartin/signal-inbox
-/plugin install signal-inbox@confidence-in
+/plugin marketplace add mrdavemartin/Confidence-In-Free
+/plugin install signal-inbox@confidence-in-free
 ```
 
-To install a pinned version:
-
-```
-/plugin marketplace add mrdavemartin/signal-inbox@v0.1.0
-/plugin install signal-inbox@confidence-in
-```
+The same marketplace will host any future free Confidence In plugins, so you only have to `marketplace add` once.
 
 ### Cowork (desktop app)
 
